@@ -17,8 +17,10 @@ Host github-account2
 	IdentityFile ~/.ssh/id_account2
 ```
 3. Set origin
-    - for default account (`account1`), don't need change: `git@github.com:letieu/btw.nvim.git`
-    - for `account2`, change host (`github.com` -> `github-account2`): `git@github.com:letieu/btw.nvim.git` -> `git@github-account2:letieu/btw.nvim.git`
+    - for default account (`account1`), don't need change.
+        just use : `git@github.com:letieu/btw.nvim.git`
+    - for `account2`, change host (`github.com` -> `github-account2`).
+        `git@github.com:letieu/btw.nvim.git` -> `git@github-account2:letieu/btw.nvim.git`
 
 4. Git config base on folder
 edit `~/.gitconfig` file:
