@@ -1,0 +1,6 @@
+[book]
+authors = ["letieu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "test"
