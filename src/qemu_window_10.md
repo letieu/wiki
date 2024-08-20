@@ -39,3 +39,6 @@ sudo usermod -a -G libvirt $USER
 - Enable edit `XML` file on `virt manager` -> `preferences`
 - VM info -> `Video QXL` -> edit `XML`
 - Change `vgame` to `262144` (512 * 512)
+
+## Try use quickemu, may be it can do bester
+- [quickemu](https://github.com/quickemu-project/quickemu/wiki/04-Create-Windows-virtual-machines)
